@@ -4,12 +4,12 @@ import "./main.css";
 
 const defaultTheme = {
   logoUrl: undefined,
-  buttonYesBgColor: "#ddd",
-  buttonYesFgColor: "#000",
-  buttonNoBgColor: "#ddd",
-  buttonNoFgColor: "#000",
-  buttonSkipBgColor: "#ddd",
-  buttonSkipFgColor: "#000",
+  buttonYesBgColor: "#b63082",
+  buttonYesFgColor: "#fff",
+  buttonNoBgColor: "#b63082",
+  buttonNoFgColor: "#fff",
+  buttonSkipBgColor: "#b63082",
+  buttonSkipFgColor: "#fff",
 };
 
 function auma(config) {

@@ -11,8 +11,8 @@ const Progress = {
   template: `
 <div>
   <svg viewBox="0 0 100 5">
-    <rect width="100" height="5" fill="#ddd"/>
-    <rect :width="percentage" height="5" fill="#000" style="transition: width 1s ease;"/>
+    <rect width="100" height="5" fill="#b63082"/>
+    <rect :width="percentage" height="5" fill="#fff" style="transition: width 1s ease;"/>
   </svg>
 </div>`,
   props: {

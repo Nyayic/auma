@@ -13,10 +13,10 @@
 
 .app__logo {
   display: flex;
-  justify-content: left;
+  justify-content: center;
 }
 
 .app__logo-img {
-  width: 40%;
+  /* width: 40%; */
   max-height: 50px;
 }

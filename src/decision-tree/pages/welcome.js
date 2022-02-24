@@ -5,7 +5,7 @@ import "./welcome.css";
 const IconDone = {
   template: `
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 48 48">
-  <circle cx="24" cy="24" r="24" fill="#ddd"/>
+  <circle cx="24" cy="24" r="24" fill="#b63082"/>
   <path 
     d="M0 3.795l2.995-2.98 11.132 11.185-11.132 11.186-2.995-2.981 8.167-8.205-8.167-8.205zm18.04 8.205l-8.167 8.205 2.995 2.98 11.132-11.185-11.132-11.186-2.995 2.98 8.167 8.206z"
     fill="#000" transform="translate(12, 12)"/>
